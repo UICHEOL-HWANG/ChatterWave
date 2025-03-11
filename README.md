@@ -1,5 +1,7 @@
 # `Chatter Wave`
 
+## `BERT` 기반 미니프로젝트
+
 1. `KcELECTRA` 모델이 탑재된 자동 혐오표현 감지가 가능한 채팅서버  
 
 - `main` 페이지 
