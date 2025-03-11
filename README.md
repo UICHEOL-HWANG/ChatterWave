@@ -3,29 +3,29 @@
 1. `KcELECTRA` 모델이 탑재된 자동 혐오표현 감지가 가능한 채팅서버  
 
 - `main` 페이지 
-![alt text](./images/main.png)
+![alt text](./server/images/main.png)
 
 - `채팅` 페이지 
-![alt text](./images/chatroom_list.png)
+![alt text](./server/images/chatroom_list.png)
 
 - `채팅 목록 조회` 
-![alt text](./images/list.png)
+![alt text](./server/images/list.png)
 
 - `혐오표현 경고` 
-![alt text](./images/warning.png)
+![alt text](./server/images/warning.png)
 
 - `차단 이벤트` 
-![alt text](./images/차단.png)
+![alt text](./server/images/차단.png)
 
 
 - `로그인` 
-![alt text](./images/login.png)
+![alt text](./server/images/login.png)
 
 - `회원가입`
-![alt text](./images/sign.png)
+![alt text](./server/images/sign.png)
 
 - `차단된 회원 가리기` 
-![alt text](./images/image-2.png)
+![alt text](./server/images/image-2.png)
 
 
 ---- 
