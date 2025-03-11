@@ -1,0 +1,19 @@
+services:
+  back_api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    
+    env_file:
+      - ./.env
+
+    ports:
+      - "8008:8008"  # 호스트의 8002번 포트를 컨테이너의 8000번 포트에 매핑
+    environment:
+      - PYTHONUNBUFFERED=1
+    networks:
+      - labson_network  # custom_network 사용
+
+networks:
+  labson_network:
+    external: true  # 이미 생성된 외부 네트워크를 사용
